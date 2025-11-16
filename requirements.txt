@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# ML / LLM
+torch           # CPU is fine, GPU speeds training
+transformers
+datasets        # HF datasets (optional but helpful)
+huggingface_hub
+
+# Data access
+kagglehub       # convenient Kaggle download :contentReference[oaicite:0]{index=0}
+
+# LLM Orchestration
+langchain
+langchain-community
+
+# App
+gradio
+
+# Dev
+jupyter
+tqdm
+python-dotenv
